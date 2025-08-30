@@ -2,9 +2,9 @@ title: Just Some Smart Guide
 description: Track info for Mario Kart World
 theme: just-the-docs
 
-  just_the_docs:
-  search-override_css:
-  - /assets/css/search-override.css
+just_the_docs:
+  custom_css
+    - /assets/css/search-override.css
 
 url: https://justsomesmartguide.github.io
 
