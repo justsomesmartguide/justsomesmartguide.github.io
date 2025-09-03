@@ -1,14 +1,8 @@
 title: Just Some Smart Guide
 description: Track info for Mario Kart World
-
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 
 url: https://justsomesmartguide.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-# Using remote theme only — no local theme gem required
