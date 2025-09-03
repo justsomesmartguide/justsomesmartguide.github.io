@@ -5,10 +5,6 @@ nav_order: 2
 description: MBC
 ---
 
-<p style="font-size: 0.8em; color: #555; text-align: left;">
-  When played normally and arriving from Shy Guy Bazaar
-</p>
-
 <p align="center">
   <img src="/assets/images/icon-mario-bros-circuit.png" alt="Mario Bros. Circuit Icon" width="300"/>
 </p>
@@ -22,7 +18,7 @@ Miss the start boost to pull triple mushrooms so you can take the rail shortcut 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
 <p style="font-size: 0.8em; color: #555; text-align: left;">
-  Arriving on all routes except from Shy Guy Bazaar
+  Arriving from Crown City, Whistlestop Summit, DK Spaceport, Desert Hills, Wario Stadium, Choco Mountain, or Toad's Factory
 </p>
 
 <p align="center">
