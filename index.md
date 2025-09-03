@@ -1,5 +1,5 @@
 ---
-title: Just Some Smart Guide
+title: Home
 layout: home
 ---
 
