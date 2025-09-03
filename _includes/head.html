@@ -1,3 +1,6 @@
-<link rel="manifest" href="/manifest.json">
+<!-- PWA Manifest -->
+<link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
 <meta name="theme-color" content="#ff0000">
-<script src="/assets/js/sw-register.js"></script>
+
+<!-- Service Worker Registration -->
+<script src="{{ '/assets/js/sw-register.js' | relative_url }}"></script>
