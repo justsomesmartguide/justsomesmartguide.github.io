@@ -1,5 +1,6 @@
 ---
 title: Mario Bros. Circuit
+layout: default
 nav_order: 1
 description: MBC
 ---
