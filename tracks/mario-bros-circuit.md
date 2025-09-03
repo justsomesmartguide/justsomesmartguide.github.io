@@ -5,6 +5,10 @@ nav_order: 2
 description: MBC
 ---
 
+<p style="font-size: 0.8em; color: #555; text-align: center;">
+  When played normally and arriving from Shy Guy Bazaar
+</p>
+
 <p align="center">
   <img src="/assets/images/icon-mario-bros-circuit.png" alt="Mario Bros. Circuit Icon" width="300"/>
 </p>
@@ -16,6 +20,10 @@ Best Shock Spot: Chain into last item set
 Miss the start boost to pull triple mushrooms so you can take the rail shortcut on laps 2 and 3 (shortcut cannot be taken lap 1), but otherwise treat this as a frontrunning track.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
+
+<p style="font-size: 0.8em; color: #555; text-align: center;">
+  Arriving on all routes except from Shy Guy Bazaar
+</p>
 
 <p align="center">
   <img src="/assets/images/icon-mario-bros-circuit-r.png" alt="Mario Bros. Circuit R Icon" width="300"/>
