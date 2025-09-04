@@ -5,7 +5,7 @@ nav_order: 2
 description: MBC
 ---
 
----
+<hr style="border-top: 1px solid #cccccc; margin: 2em 0;">
 
 <p align="center">
   <img src="/assets/images/icon-mario-bros-circuit.png" alt="Mario Bros. Circuit Icon" width="300"/>
