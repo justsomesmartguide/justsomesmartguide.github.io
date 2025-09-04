@@ -5,6 +5,8 @@ nav_order: 2
 description: MBC
 ---
 
+---
+
 <p align="center">
   <img src="/assets/images/icon-mario-bros-circuit.png" alt="Mario Bros. Circuit Icon" width="300"/>
 </p>
