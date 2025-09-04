@@ -1,3 +1,15 @@
 $body-background-color: #f2f2f2;
 $sidebar-color: #F9D849;
 $border-color: transparent;
+
+.nav-list .nav-item .nav-link {
+  color: #F4F4F4;
+}
+
+.nav-list .nav-item .nav-link:hover {
+  color: #ffffff; // Optional: slightly brighter on hover
+}
+
+.nav-list .nav-item .nav-link.active {
+  color: #ffffff; // Optional: match active link color
+}
