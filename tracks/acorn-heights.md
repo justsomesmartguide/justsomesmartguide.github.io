@@ -6,7 +6,7 @@ description: AH
 ---
 
 <p align="center">
-  <img src="/assets/images/icon-acron-heights.png" alt="Acorn Heights" width="300"/>
+  <img src="/assets/images/icon-acorn-heights.png" alt="Acorn Heights" width="300"/>
 </p>
 
 Track Type: Frontrunning
