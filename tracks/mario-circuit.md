@@ -5,6 +5,10 @@ nav_order: 29
 description: MC
 ---
 
+<p style="font-size: 0.8em; color: #555; text-align: left;">
+  When played normally and arriving from Acorn Heights
+</p>
+
 <p align="center">
   <img src="/assets/images/icon-mario-circuit.png" alt="Mario Circuit" width="300"/>
 </p>
