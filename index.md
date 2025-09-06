@@ -15,6 +15,3 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
 [MKCentral](https://mkcentral.com/) - Sign up for competitive Mario Kart.
 
 [Mario Kart World subreddit](https://www.reddit.com/r/MarioKartWorld/) - Post and comment on all things to do with Mario Kart World.
-
-## NOTE
-WEBSITE IS UNDER ACTIVE DEVELOPMENT. STUFF MAY NOT WORK
