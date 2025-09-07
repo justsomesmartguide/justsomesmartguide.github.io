@@ -5,3 +5,5 @@ theme: just-the-docs
 url: https://justsomesmartguide.github.io
 
 color_scheme: custom
+
+logo: "/assets/icons/app-icon-1080.jpg"
