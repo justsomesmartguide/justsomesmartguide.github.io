@@ -1,6 +1,5 @@
 ---
 layout: home
-nav_order: 1
 ---
 
 <p align="center">
@@ -8,6 +7,13 @@ nav_order: 1
 </p>
 
 Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help you WIN online. To view the info for any given track, click on the name of the track in the sidebar, or alternatively search for the name of the track. To download the PDF version of this guide, click [here](https://www.mediafire.com/file/rjfj2y5st5olq4t/Mario_Kart_World_-_Just_Some_Smart_Guide.pdf/file).
+
+## Track Types
+- **Frontrunning**: Try to stay at the front for most of the race. Getting drafts at the beginning is especially useful to get into the front. Many frontrunning tracks feature technical shortcuts and rail strategies that you need to learn in order to win.
+  
+- **Bagging**: Stay at the back to get good items and lots of coins, then use those items to make a comeback by taking shortcuts or dodging the shock (or both).
+  
+- **Shroomer**: Miss the start boost to pull triple mushrooms at the first item set, then use them to take a big shortcut each lap. Different to shroomer tracks in Mario Kart 8 Deluxe because you want to be holding triple mushrooms throughout the race to take the same shortcut multiple times, rather than getting a single mushroom to take a single shortcut and then frontrunning.
 
 ## Useful Links
 [Mario Kart World Discord server](https://discord.com/invite/mario-kart-world) - Play real tracks in a casual environment.
