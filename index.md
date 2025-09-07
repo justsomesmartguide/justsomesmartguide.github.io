@@ -16,8 +16,8 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
 - **Shroomer**: Miss the start boost to pull triple mushrooms at the first item set, then use them to take a big shortcut each lap.
 
 ## Useful Links
-[Mario Kart World Discord server](https://discord.com/invite/mario-kart-world) - Play real tracks in a casual environment.
+- [Mario Kart World discord server](https://discord.com/invite/mario-kart-world) - Play real tracks in a casual environment.
 
-[MKCentral](https://mkcentral.com/) - Sign up for competitive Mario Kart.
+- [MKCentral](https://mkcentral.com/) - Sign up for competitive Mario Kart.
 
-[Mario Kart World subreddit](https://www.reddit.com/r/MarioKartWorld/) - Post and comment on all things to do with Mario Kart World.
+- [Mario Kart World subreddit](https://www.reddit.com/r/MarioKartWorld/) - Post and comment on all things to do with Mario Kart World.
