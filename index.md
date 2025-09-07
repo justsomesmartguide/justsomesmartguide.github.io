@@ -13,7 +13,7 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
   
 - **Bagging**: Stay at the back to get good items and lots of coins, then use those items to make a comeback by taking shortcuts or dodging the shock (or both).
   
-- **Shroomer**: Miss the start boost to pull triple mushrooms at the first item set, then use them to take a big shortcut each lap. Different to shroomer tracks in Mario Kart 8 Deluxe because you want to be holding triple mushrooms throughout the race to take the same shortcut multiple times, rather than getting a single mushroom to take a single shortcut and then frontrunning.
+- **Shroomer**: Miss the start boost to pull triple mushrooms at the first item set, then use them to take a big shortcut each lap.
 
 ## Useful Links
 [Mario Kart World Discord server](https://discord.com/invite/mario-kart-world) - Play real tracks in a casual environment.
