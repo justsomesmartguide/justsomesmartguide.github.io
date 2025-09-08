@@ -18,6 +18,6 @@ nav_order: 28
   <strong>Best Shock Spot:</strong> After glider
 </p>
 
-<p>
   Go for the shroomless shortcut if you know how to do it, but otherwise you can always take it with a mushroom.
-</p>
+
+<span style="display:none">AH, Acorn Heights</span>
