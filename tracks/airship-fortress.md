@@ -20,4 +20,4 @@ nav_order: 9
 
 Try to frontrun if you can, but if you are in a middle spot or worse at the end of lap 1, try to pull a bullet bill and use it at the burner section on lap 3 to take a massive bullet extension.
 
-<span style="display:none">AF</span>
+<span style="display:none">Abbreviation: AF</span>
