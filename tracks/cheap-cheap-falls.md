@@ -1,8 +1,7 @@
 ---
-title: Cheap Cheap Falls
+title: Cheep Cheep Falls
 layout: default
 nav_order: 20
-description: CCF
 ---
 
 <p align="center">
