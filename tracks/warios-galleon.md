@@ -1,8 +1,7 @@
 ---
-title: Wario's Galleon
+title: Wario's Galleon / Wario Shipyard
 layout: default
 nav_order: 13
-description: WG
 ---
 
 <p align="center">
