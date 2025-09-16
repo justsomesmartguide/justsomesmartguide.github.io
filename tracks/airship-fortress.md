@@ -9,12 +9,12 @@ nav_order: 9
 </p>
 
 <p>
-  <img src="/assets/images/item-box.png" alt="Item Box" width="18" height="20" style="vertical-align:middle; margin-right:6px;" />
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="vertical-align:middle; margin-right:6px;" />
   Track Type: Frontrunning / Bagging
 </p>
 
 <p>
-  <img src="/assets/images/shock.png" alt="Shock" width="12" height="20" style="vertical-align:middle; margin-right:6px;" />
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="vertical-align:middle; margin-right:6px;" />
   Best Shock Spot: During spiral section
 </p>
 
