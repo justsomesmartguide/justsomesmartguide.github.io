@@ -9,12 +9,12 @@ nav_order: 28
 </p>
 
 <p>
-  <img src="/assets/images/item-box.png" alt="Item Box" width="18" height="20" style="vertical-align:middle; margin-right:6px;" />
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="vertical-align:middle; margin-right:6px;" />
   Track Type: Frontrunning
 </p>
 
 <p>
-  <img src="/assets/images/shock.png" alt="Shock" width="12" height="20" style="vertical-align:middle; margin-right:6px;" />
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="vertical-align:middle; margin-right:6px;" />
   Best Shock Spot: After glider
 </p>
 
