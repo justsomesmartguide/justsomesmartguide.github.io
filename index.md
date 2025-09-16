@@ -15,6 +15,28 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
   
 - **Shroomer**: Miss the start boost to pull triple mushrooms at the first item set, then use them to take a big shortcut each lap.
 
+## Positions to Get the Best Items
+
+| Room Size | Bottom 25% Positions |
+|-----------|----------------------|
+| 8 players | 7th or lower (bottom 2) |
+| 9 players | 7th or lower (bottom 3) |
+| 10 players | 8th or lower (bottom 3) |
+| 11 players | 9th or lower (bottom 3) |
+| 12 players | 10th or lower (bottom 3) |
+| 13 players | 11th or lower (bottom 3) |
+| 14 players | 11th or lower (bottom 4) |
+| 15 players | 12th or lower (bottom 4) |
+| 16 players | 13th or lower (bottom 4) |
+| 17 players | 13th or lower (bottom 5) |
+| 18 players | 14th or lower (bottom 5) |
+| 19 players | 15th or lower (bottom 5) |
+| 20 players | 15th or lower (bottom 6) |
+| 21 players | 16th or lower (bottom 6) |
+| 22 players | 17th or lower (bottom 6) |
+| 23 players | 17th or lower (bottom 7) |
+| 24 players | 19th or lower (bottom 6) |
+
 ## Useful Links
 - [Mario Kart World discord server](https://discord.com/invite/mario-kart-world) - Play real tracks in a casual environment.
 
