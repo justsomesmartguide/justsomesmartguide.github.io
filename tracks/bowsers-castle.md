@@ -2,7 +2,6 @@
 title: Bowser's Castle
 layout: default
 nav_order: 27
-description: BC
 ---
 
 <p align="center">
