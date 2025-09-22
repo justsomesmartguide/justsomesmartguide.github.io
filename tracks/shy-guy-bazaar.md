@@ -29,4 +29,4 @@ Track Type: Bagging
 
 Best Shock Spot: Beginning of final lap
 
-There are grass shortcuts inside the palace, at the split path section, and after the marketplace (just before finish line). Keep in mind the split path shortcut skips an item set.
+There are grass shortcuts inside the palace, at the split path section, and after the marketplace (just before finish line). The shortcut at the split path section skips an item set, but it can be done shroomless by doing a charge jump and tricking off the sign.
