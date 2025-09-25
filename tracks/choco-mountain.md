@@ -11,6 +11,6 @@ description: CM
 
 Track Type: Bagging
 
-Best Shock Spot: Chain into the first or second item set
+Best Shock Spot: Chain into second item set / Before taking shortcut that skips second item set
 
 The track has shortcuts everywhere. The shortcut by the second item set is very good, but you skip the set, so only take this if you don’t need another item.
