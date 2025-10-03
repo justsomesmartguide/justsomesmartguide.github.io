@@ -32,7 +32,7 @@ You can take an off-road shortcut right after the start line but be careful you 
 
 <p>
   <img src="/assets/images/icon-toads-factory.png" alt="Toad's Factory" width="300"/>
-  <img src="/assets/images/icon-arrow.png" alt="to" width="100"/>
+  <img src="/assets/images/icon-arrow.png" alt="to" width="100" style="vertical-align: middle;"/>
   <img src="/assets/images/icon-mario-bros-circuit-r.png" alt="Mario Bros Circuit R" width="300"/>
 </p>
 
