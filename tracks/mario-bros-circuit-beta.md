@@ -31,9 +31,9 @@ You can take an off-road shortcut right after the start line but be careful you 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
 <p>
-  <img src="icon-toads-factory.png" alt="Toad's Factory" width="300"/>
-  <img src="icon-arrow.png" alt="to" width="100"/>
-  <img src="icon-mario-bros-circuit-r.png" alt="Mario Bros Circuit R" width="300"/>
+  <img src="/assets/images/icon-toads-factory.png" alt="Toad's Factory" width="300"/>
+  <img src="/assets/images/icon-arrow.png" alt="to" width="100"/>
+  <img src="/assets/images/icon-mario-bros-circuit-r.png" alt="Mario Bros Circuit R" width="300"/>
 </p>
 
 Track Type: Frontrunning
