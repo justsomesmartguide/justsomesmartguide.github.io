@@ -1,5 +1,4 @@
 ---
-title: Mario Bros. Circuit
 layout: default
 ---
 
