@@ -13,7 +13,7 @@ Track Type: Shroomer
 
 Best Shock Spot: Chain into last item set
 
-Miss the start boost to pull triple mushrooms so you can take the rail shortcut on laps 2 and 3 (shortcut cannot be taken lap 1), but otherwise treat this as a frontrunning track.
+Miss the start boost to pull triple mushrooms so you can take the rail shortcut on laps 2 and 3, but otherwise treat this as a frontrunning track.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
