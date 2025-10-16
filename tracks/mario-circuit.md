@@ -13,11 +13,11 @@ description: MC
   <img src="/assets/images/icon-mario-circuit.png" alt="Mario Circuit" width="300"/>
 </p>
 
-Track Type: Shroomer / Bagging
+Track Type: Bagging
 
-Best Shock Spot: Beginning of section 2
+Best Shock Spot: Beginning of section 2 / Chain into second item set in section 3
 
-The track is short, so only bag for shock dodge when arriving from Acorn Heights. The lap 2 shortcut can be taken with a single mushroom by charge jumping and tricking off the pipe.
+Be careful not to overbag when playing normally, since the track is very short. The section 2 shortcut can be taken with a single mushroom by charge jumping and tricking off the pipe. If arriving from Acorn Heights, expect the shock to happen before the section 2 shortcut, otherwise expect it on section 3.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
