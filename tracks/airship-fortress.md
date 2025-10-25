@@ -42,6 +42,6 @@ Try to frontrun if you can, but if you are in a middle spot or worse at the end 
       <source src="/assets/clips/af-bill-extension.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Bullet bill extension</figcaption>
+    <figcaption>Bullet bill extension (14 secs)</figcaption>
   </figure>
 </p>
