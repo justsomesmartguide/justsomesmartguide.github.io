@@ -17,14 +17,14 @@ Taking the ropes to the top path is faster, but there’s a risk of being bumped
 
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
-    <video controls width="150" preload="metadata">
+    <video controls width="300" preload="metadata">
       <source src="/assets/clips/sgb-beginning-cut-easy.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Beginning shortcut (easy)</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
-    <video controls width="150" preload="metadata">
+    <video controls width="300" preload="metadata">
       <source src="/assets/clips/sgb-beginning-cut-hard.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
