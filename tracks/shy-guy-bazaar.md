@@ -15,6 +15,17 @@ Best Shock Spot: Target shock at rope shortcut
 
 Taking the ropes to the top path is faster, but there’s a risk of being bumped off if it gets congested, so don’t be afraid to play it safe and  go through the marketplace on lap 1.
 
+<p align="center">
+  <video controls width="150" preload="metadata">
+    <source src="/assets/clips/sgb-beginning-cut-easy.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video controls width="150" preload="metadata">
+    <source src="/assets/clips/sgb-beginning-cut-hard.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
 <p style="font-size: 0.8em; color: #555; text-align: left;">
