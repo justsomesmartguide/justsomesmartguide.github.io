@@ -11,7 +11,7 @@ description: DKP
 
 Track Type: Shroomer / Bagging
 
-Best Shock Spot: Chain into item set before tree shortcut
+Best Shock Spot: Chain into last item set
 
 You’ll want triple mushrooms so you can take the ending shortcut on all 3 laps. There are also a few shroomless shortcuts dotted on the track, so make sure to practice in free roam or TTs.
 
