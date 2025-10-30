@@ -20,4 +20,4 @@ nav_order: 28
 
 Go for the shroomless shortcut if you know how to do it, but otherwise you can always take it with a mushroom.
 
-<span style="display:none">AH, Acorn Heights</span>
+<span style="display:none">AH</span>
