@@ -1,7 +1,7 @@
 ---
 title: Crown City
 layout: default
-nav_order: 3
+nav_order: 2
 description: CC
 ---
 
@@ -9,7 +9,10 @@ description: CC
   <img src="/assets/images/icon-crown-city.png" alt="Crown City Icon" width="300"/>
 </p>
 
-Track Type: Bagging
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
+  <span>Track Type: Bagging</span>
+</div>
 
 Best Shock Spot: Beginning of section 3
 
@@ -25,11 +28,17 @@ You can take the grass shortcut on section 1, but the double shortcut on section
   <img src="/assets/images/icon-crown-city-1.png" alt="Crown City 1 Icon" width="300"/>
 </p>
 
-Track Type: Frontrunning
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
+  <span>Track Type: Frontrunning</span>
+</div>
 
-Best Shock Spot: Target shock at tyre ring
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
+  <span>Best Shock Spot: Target shock at tyre ring</span>
+</div>
 
-As always, bag the route, but get into the front for the final lap since this version does not have many shortcuts to make a good comeback.
+Be careful not to overbag the route since you want to be in the front for the final lap since this version does not have many shortcuts on the track itself to make a good comeback.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -41,9 +50,15 @@ As always, bag the route, but get into the front for the final lap since this ve
   <img src="/assets/images/icon-crown-city-2.png" alt="Crown City 2 Icon" width="300"/>
 </p>
 
-Track Type: Bagging
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
+  <span>Track Type: Bagging</span>
+</div>
 
-Best Shock Spot: Before halfpipe
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
+  <span>Best Shock Spot: Before halfpipe</span>
+</div>
 
 Bag the route as usual, and then for the final lap, there's a big grass shortcut in the halfpipe.
 
@@ -57,8 +72,14 @@ Bag the route as usual, and then for the final lap, there's a big grass shortcut
   <img src="/assets/images/icon-crown-city-3.png" alt="Crown City 3 Icon" width="300"/>
 </p>
 
-Track Type: Frontrunning
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
+  <span>Track Type: Frontrunning</span>
+</div>
 
-Best Shock Spot: During water section
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
+  <span>Best Shock Spot: During water section</span>
+</div>
 
 A comeback can be difficult here due to a lack of shortcuts, and there isn’t really a good shock spot aside from the water section where there’s bad acceleration.
