@@ -14,7 +14,10 @@ description: CC
   <span>Track Type: Bagging</span>
 </div>
 
-Best Shock Spot: Beginning of section 3
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
+  <span>Best Shock Spot: Beginning of section 3</span>
+</div>
 
 You can take the grass shortcut on section 1, but the double shortcut on section 3 is a must. Keep in mind the shock tends to happen here, so use a dodge item at or before the shortcut.
 
