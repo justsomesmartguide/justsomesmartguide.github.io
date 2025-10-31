@@ -8,12 +8,12 @@ nav_order: 9
   <img src="/assets/images/icon-airship-fortress.png" alt="Airship Fortress" width="300"/>
 </p>
 
-<div style="display:flex; align-items:center; margin-bottom:8px;">
+<div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
   <span>Track Type: Frontrunning / Bagging</span>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:8px;">
+<div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
   <span>Best Shock Spot: During spiral section</span>
 </div>
