@@ -1,7 +1,7 @@
 ---
 title: Airship Fortress
 layout: default
-nav_order: 9
+nav_order: 8
 ---
 
 <p align="center">
@@ -10,7 +10,7 @@ nav_order: 9
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Frontrunning / Bagging</span>
+  <span>Track Type: Frontrunning</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -19,10 +19,10 @@ nav_order: 9
 </div>
 
 <p>
-  Try to frontrun if you can, but if you are in a middle spot or worse at the end of lap 1, try to pull a bullet bill and use it at the burner section on lap 3 to take a massive bullet extension.
+  Frontrunning is really powerful on this track, especially if you trap the rails. If you end up towards the back, try to pull a bullet bill and use it to take a really powerful bullet bill extension, but be careful not to overbag.
 </p>
 
-<span style="display:none">Abbreviation: AF</span>
+<span style="display:none">rAF</span>
 
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
