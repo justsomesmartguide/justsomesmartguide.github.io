@@ -2,7 +2,6 @@
 title: Mario Bros. Circuit
 layout: default
 nav_order: 1
-description: MBC
 ---
 
 <p align="center">
@@ -60,3 +59,5 @@ You can take an off-road shortcut right after the start line but be careful you 
 </div>
 
 Shortly after the start of section 2, there is a helicopter up for grabs to the left and a truck behind the building to the right. If you are in 1st, go for the truck because it's faster. If you're slightly further back and someone else is going for the truck, go for the helicopter, which isn't as fast as the truck, but it better than not getting anything at all.
+
+<span style="display:none">MBC</span>

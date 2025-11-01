@@ -2,7 +2,6 @@
 title: Crown City
 layout: default
 nav_order: 2
-description: CC
 ---
 
 <p align="center">
@@ -86,3 +85,5 @@ Bag the route as usual, and then for the final lap, there's a big grass shortcut
 </div>
 
 A comeback can be difficult here due to a lack of shortcuts, and there isn’t really a good shock spot aside from the water section where there’s bad acceleration.
+
+<span style="display:none">CC</span>
