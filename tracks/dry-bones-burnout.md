@@ -1,8 +1,7 @@
 ---
 title: Dry Bones Burnout
 layout: default
-nav_order: 23
-description: DBB
+nav_order: 22
 ---
 
 <p align="center">

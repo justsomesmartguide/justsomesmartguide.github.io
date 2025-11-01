@@ -1,21 +1,22 @@
 ---
 title: Bowser's Castle
 layout: default
-nav_order: 27
+nav_order: 26
 ---
 
 <p align="center">
   <img src="/assets/images/icon-bowsers-castle.png" alt="Bowser's Castle" width="300"/>
 </p>
 
-<p>
-  <img src="/assets/images/item-box.png" alt="Item Box" width="16" height="16" style="vertical-align:middle; margin-right:6px;" />
-  Track Type: Frontrunning
-</p>
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
+  <span>Track Type: Frontrunning / Shroomer</span>
+</div>
 
-<p>
-  <img src="/assets/images/shock.png" alt="Shock" width="16" height="16" style="vertical-align:middle; margin-right:6px;" />
-  Best Shock Spot: Chain into the first item set
-</p>
+<div style="display:flex; align-items:center; margin:12px 0;">
+  <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
+  <span>Best Shock Spot: Chain into first item set</span>
+</div>
+If you are starting in a middle or rear spot, miss the start boost so you can take the first shortcut without being bumped off, meanwhile you'll get a good item and pass everyone in the pack who bumped each other off. Knowing how to do both shroomless shortcuts is crucial to doing well here. After them there’s also a couple optional of mushroom shortcuts. Absolutely time trial this one.
 
-Knowing how to do both shroomless shortcuts is crucial to doing well here. After them there’s also a couple optional of mushroom shortcuts. Absolutely time trial this one. If you pull a shock, do not target shock people taking the second shortcut. Instead chain it into the first item set on lap 3 and people immediately in front of you won't be able to take the rail shortcut, clearing the rail for you to take it.
+<span style="display:none">BC</span>
