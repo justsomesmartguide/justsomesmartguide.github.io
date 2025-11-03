@@ -15,7 +15,7 @@ nav_order: 1
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into last item set</span>
+  <span>Best Shock Spot: Chain into item set at cave / last item set</span>
 </div>
 
 Miss the start boost to pull triple mushrooms so you can take the rail shortcut on laps 2 and 3, but otherwise treat this as a frontrunning track.
