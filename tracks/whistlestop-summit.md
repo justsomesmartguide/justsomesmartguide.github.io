@@ -39,3 +39,27 @@ The left path with the rails at the beginning is faster. At the entrance to the 
 Grab a food item to take one of the grass shortcuts at the beginning. As you leave the city, instead of following the main path, you can go to the right and go along the train tracks, which is much faster. If you're the only one in the room who knows about this, you have a massive advantage on this route.
 
 <span style="display:none">WS</span>
+
+<p align="center">
+  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <video controls width="300" preload="metadata">
+      <source src="/assets/clips/WS-beginning-cut.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Beginning shortcut (optional)</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <video controls width="300" preload="metadata">
+      <source src="/assets/clips/WS-gap-jump.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Gap jump</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <video controls width="300" preload="metadata">
+      <source src="/assets/clips/WS-ending-cut.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Ending itemless shortcut (very hard)</figcaption>
+  </figure>
+</p>

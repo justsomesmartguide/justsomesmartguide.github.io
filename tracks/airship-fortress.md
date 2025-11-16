@@ -27,21 +27,21 @@ nav_order: 8
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/af-rail-strat.mp4" type="video/mp4">
+      <source src="/assets/clips/rAF-rail-strat.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Beginning rail strat</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/af-ending-cut.mp4" type="video/mp4">
+      <source src="/assets/clips/rAF-ending-cut.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Ending shortcut</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/af-bill-extension.mp4" type="video/mp4">
+      <source src="/assets/clips/rAF-bill-extension.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Bullet bill extension (14 secs)</figcaption>

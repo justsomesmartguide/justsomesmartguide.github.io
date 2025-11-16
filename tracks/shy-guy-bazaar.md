@@ -23,14 +23,14 @@ Taking the ropes to the top path is faster, but there’s a risk of being bumped
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/sgb-beginning-cut-easy.mp4" type="video/mp4">
+      <source src="/assets/clips/rSGB-beginning-cut-easy.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Beginning shortcut (easy)</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/sgb-beginning-cut-hard.mp4" type="video/mp4">
+      <source src="/assets/clips/rSGB-beginning-cut-hard.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Beginning shortcut (hard)</figcaption>
@@ -62,24 +62,24 @@ There are grass shortcuts inside the palace, at the split path section, and afte
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/sgb2-ending-cut.mp4" type="video/mp4">
+      <source src="/assets/clips/rSGB2-ending-cut.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Ending shortcut</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/sgb2-palace-cut.mp4" type="video/mp4">
+      <source src="/assets/clips/rSGB2-palace-cut.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <figcaption>Beginning shortcut (inside palace)</figcaption>
   </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
-      <source src="/assets/clips/sgb2-nisc.mp4" type="video/mp4">
+      <source src="/assets/clips/rSGB2-nisc.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Sign shortcut (shroomless)</figcaption>
+    <figcaption>Sign shortcut (itemless)</figcaption>
   </figure>
 </p>
 
