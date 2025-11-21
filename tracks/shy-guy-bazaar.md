@@ -67,6 +67,13 @@ There are grass shortcuts inside the palace, at the split path section, and afte
     </video>
     <figcaption>Ending shortcut</figcaption>
   </figure>
+    <figure style="display: inline-block; margin: 0 10px; text-align: center;">
+    <video controls width="300" preload="metadata">
+      <source src="/assets/clips/rSGB2-ending-cut-nisc.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption>Ending shortcut (itemless)</figcaption>
+  </figure>
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
     <video controls width="300" preload="metadata">
       <source src="/assets/clips/rSGB2-palace-cut.mp4" type="video/mp4">
