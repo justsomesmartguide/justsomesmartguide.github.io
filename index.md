@@ -22,4 +22,6 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
 
 - [Mario Kart World subreddit](https://www.reddit.com/r/MarioKartWorld/) - Post and comment on all things to do with Mario Kart World.
   
-- [Mario Kart World ver. 1.4.0 patch notes](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68580/~/how-to-update-mario-kart-world)
+- [Mario Kart World ver. 1.6.0 patch notes](https://en-americas-support.nintendo.com/app/answers/detail/a_id/68580/~/how-to-update-mario-kart-world)
+
+- [MK Blog item distrobution table](https://japan-mk.blog.jp/mkworld.item-1)
