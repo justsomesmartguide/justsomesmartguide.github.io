@@ -20,7 +20,7 @@ nav_order: 10
 
 There’s a mushroom shortcut in the water section that also involves a charge jump to get on the rail (practice this one). Afterwards, stay on the right edge to avoid the water.
 
-# Video Guides
+## Video Guides
 - [How to win on Starview Peak in Mario Kart World](https://www.youtube.com/watch?v=grtCNVWE4hg) by Chrop
 
 <span style="display:none">SP</span>

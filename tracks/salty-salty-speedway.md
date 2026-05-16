@@ -20,7 +20,7 @@ nav_order: 16
 
 Frontrunning is possible if you're consistent at taking the ending shortcut with either a shell or itemless, but bagging for speed items is a good backup if you're not able to do that.
 
-# Video Guides
+## Video Guides
 - [Full Shortcut Guide: Salty Salty Speedway (with Controller Display)](https://youtu.be/hQMJQTV_r98?si=Pfe2C5L5IL8zPeXj) by Shortcat
 
 <span style="display:none">SSS</span>

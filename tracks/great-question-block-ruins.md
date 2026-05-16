@@ -30,7 +30,7 @@ Practice this one in offline VS mode. The track is known for its ending shortcut
   </figure>
 </p>
 
-# Video Guides
+## Video Guides
 - [The In Depth Beginner Guide to Help You WIN on Great ? Block Ruins in Mario Kart World](https://youtu.be/JyLXJDeLiAM) by JustSomeSmartGuy
 
 <span style="display:none">GBR</span>

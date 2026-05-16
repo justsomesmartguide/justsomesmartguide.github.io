@@ -20,7 +20,7 @@ nav_order: 24
 
 The track has shortcuts everywhere, some of which can be done itemless with practice. Feel free to run if you're good at the itemless shortcuts, but if you can't do them then you can instead bag. If bagging, you can take multiple shortcuts at the beginning with a single golden mushroom.
 
-# Video Guides
+## Video Guides
 - [Mario Kart World Guide \| EVERY Shortcut & Strategy you NEED to know!](https://www.youtube.com/watch?v=EFhO5Lxkn1Y&t=5083s) by L1am (for Choco Mountain skip to 1:24:43)
 
 <span style="display:none">rCM</span>

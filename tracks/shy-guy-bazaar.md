@@ -90,7 +90,7 @@ There are grass shortcuts inside the palace, at the split path section, and just
   </figure>
 </p>
 
-# Video Guides
+## Video Guides
 - [How to Win on Daisy's Palace in Mario Kart World](https://youtu.be/c5At8lrPSxw) by JustSomeSmartGuy
 
 <span style="display:none">rSGB</span>

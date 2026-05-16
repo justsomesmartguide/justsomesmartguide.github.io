@@ -20,7 +20,7 @@ nav_order: 19
 
 Only frontrun this track if you're good at the Tarzan shortcut. If you're unable to do Tarzan, you should instead get triple mushrooms and a dodge item. There are two off road shortcuts in the water section that save a huge amount of time combined.
 
-# Video Guides
+## Video Guides
 [How to do the WILDEST Shortcut in Mario Kart World](https://www.youtube.com/watch?v=FEBchTssgK0) by Gyrodos
 
 <span style="display:none">CCF</span>

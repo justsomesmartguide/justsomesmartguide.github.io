@@ -20,7 +20,7 @@ nav_order: 3
 
 At the beginning the left path with the rails is faster. This track also has a difficult itemless gap jump and ending shortcut which are impossible to do without having first practiced. The ending shortcut can alternatively be taken with shrooms by shrooming through the grass and it's way easier.
 
-# Video Guides
+## Video Guides
 - [Full Shortcut Guide: WHISTLESTOP SUMMIT (with Controller Display)](https://youtu.be/2mx6_358Wv8?si=Gu5EqOr6-DBOJzMI) by Shortcat
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
