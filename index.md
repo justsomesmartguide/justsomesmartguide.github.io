@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <p align="center">
   <img src="/assets/images/cover-picture-3-web.png" alt="Just Some Smart Guide"/>
 </p>
