@@ -21,6 +21,6 @@ nav_order: 27
 Knowing how to do the shroomless shortcut is mandatory in order to do well here. I would reccomend learning the wall ride version since it's the easiest.
 
 # Video Guides
-- [The Most Complex Shortcut in Mario Kart World | Acorn Heights Shroomless Shortcut NISC Tutorial](https://www.youtube.com/watch?v=jnIhyQMTzNk) by Shortcat
+- [The Most Complex Shortcut in Mario Kart World \| Acorn Heights Shroomless Shortcut NISC Tutorial](https://www.youtube.com/watch?v=jnIhyQMTzNk) by Shortcat
 
 <span style="display:none">AH</span>

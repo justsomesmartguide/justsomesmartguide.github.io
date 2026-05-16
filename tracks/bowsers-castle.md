@@ -20,7 +20,7 @@ nav_order: 26
 If you are starting in a middle or rear spot, miss the start boost so you can take the first shortcut without being bumped off, meanwhile you'll get a good item and pass everyone in the pack who bumped each other off. Knowing how to do both shroomless shortcuts is crucial to doing well here. After them there’s also a couple optional of mushroom shortcuts. Absolutely practice this one in offline VS mode.
 
 # Video Guides
-- [Mario Kart World Guide \| EVERY Shortcut & Strategy you NEED to Know!](https://youtu.be/EFhO5Lxkn1Y?si=-gi9QrepMSvOy80V&t=5371) by L1am (for Bowser's Castle skip to 1:29:31)
+- [Mario Kart World Guide | EVERY Shortcut & Strategy you NEED to Know!](https://youtu.be/EFhO5Lxkn1Y?si=-gi9QrepMSvOy80V&t=5371) by L1am (for Bowser's Castle skip to 1:29:31)
 
 - [How to do the BOWSER'S CASTLE Turn Skip Shortcut (with Controller Display)](https://youtu.be/U8Kb5THg2Y8?si=aIiA3WFb59bv-Nj4) by Shortcat
 
