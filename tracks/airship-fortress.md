@@ -15,11 +15,11 @@ nav_order: 8
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: During spiral section</span>
+  <span>Best Shock Spot: During spiral section after glider</span>
 </div>
 
 <p>
-  Frontrunning is really powerful on this track, especially if you trap the rails. If you end up towards the back, try to pull a bullet bill and use it to take a really powerful bullet bill extension, but be careful not to overbag.
+  Frontrunning is really powerful on this track, especially if you trap the rails. If you fall too far back, there's a really powerful bullet extension if you use your bill in the burner section, but this bullet extension alone is not enough to make bagging worthwhile.
 </p>
 
 <span style="display:none">rAF</span>

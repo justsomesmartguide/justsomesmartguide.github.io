@@ -15,9 +15,12 @@ nav_order: 27
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: After glider</span>
+  <span>Best Shock Spot: Chain into last item set</span>
 </div>
 
-Go for the shroomless shortcut if you know how to do it, but otherwise you can always take it with a mushroom.
+Knowing how to do the shroomless shortcut is mandatory in order to do well here. I would reccomend learning the wall ride version since it's the easiest.
+
+# Video Guides
+- [The Most Complex Shortcut in Mario Kart World | Acorn Heights Shroomless Shortcut NISC Tutorial](https://www.youtube.com/watch?v=jnIhyQMTzNk) by Shortcat
 
 <span style="display:none">AH</span>

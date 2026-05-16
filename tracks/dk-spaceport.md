@@ -10,7 +10,7 @@ nav_order: 4
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Bagging</span>
+  <span>Track Type: ShroomStar</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -18,6 +18,6 @@ nav_order: 4
   <span>Best Shock Spot: Chain into last item set</span>
 </div>
 
-Try to pull triple mushrooms and a dodge item so you can take the shortcuts found at the end of each U-turn, then use the dodge item on the super dangerous final section.
+Very short track. Taking the shortcuts at each U turn is very important. Get triple mushrooms and star at the first item set, go around the first shortcut (and grab coins), and then use mushrooms to take the next three, then chain the star to take the final shortcut.
 
 <span style="display:none">DKS</span>

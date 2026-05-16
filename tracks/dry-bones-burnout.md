@@ -10,7 +10,7 @@ nav_order: 22
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Bagging / Frontrunning</span>
+  <span>Track Type: ShroomStar / Frontrunning</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -18,6 +18,6 @@ nav_order: 22
   <span>Best Shock Spot: Chain into item set after glider</span>
 </div>
 
-Dodging the shock can be very powerful if you can take the shortcut afterwards. Be careful not to overbag otherwise a comeback can be impossible if the shock doesn't happen. A frontrun can be really good here is the rest of the room overbags.
+This track has one of the most devastating shock spots in the entire game and dodging can be really powerful if you can take the shortcut afterwards, but be careful not to overbag otherwise a comeback can be impossible if the shock doesn't happen. It is also possible to frontrun if you know what you're doing.
 
 <span style="display:none">DBB</span>

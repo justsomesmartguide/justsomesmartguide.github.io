@@ -18,7 +18,9 @@ nav_order: 12
   <span>Best Shock Spot: Chain into first item set</span>
 </div>
 
-The water makes you really slow, and most of the shortcuts revolve around avoiding it. The most important one is taking the rail after exiting the tunnel, then shrooming in the sand.
+The water makes you really slow, and most of the shortcuts revolve around avoiding it. The most important one is taking the rail after exiting the tunnel, then shrooming in the sand. It is also possible to do it itemless with a Mario Kart 8 Deluxe style hop.
+
+# Video Guides
 
 <span style="display:none">rWSh</span>
 <span style="display:none">rWG</span>

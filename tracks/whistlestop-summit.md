@@ -15,34 +15,13 @@ nav_order: 3
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Target shock players taking ending shroomless shortcut</span>
+  <span>Best Shock Spot: Target shock players taking either ending itemless shortcut or gap jump</span>
 </div>
 
-The left path with the rails at the beginning is faster. At the entrance to the cave, the off-road shortcut can be done shroomless by wall riding. Very important to Time Trial this track.
+At the beginning the left path with the rails is faster. This track also has a difficult itemless gap jump and ending shortcut which are impossible to do without having first practiced. The ending shortcut can alternatively be taken with shrooms by shrooming through the grass and it's way easier.
 
-<p align="center">
-  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
-    <video controls width="300" preload="metadata">
-      <source src="/assets/clips/WS-beginning-cut.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>Beginning shortcut (optional)</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
-    <video controls width="300" preload="metadata">
-      <source src="/assets/clips/WS-gap-jump.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>Gap jump</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 0 10px; text-align: center;">
-    <video controls width="300" preload="metadata">
-      <source src="/assets/clips/WS-ending-cut.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption>Ending itemless shortcut (very hard)</figcaption>
-  </figure>
-</p>
+# Video Guides
+- [Full Shortcut Guide: WHISTLESTOP SUMMIT (with Controller Display)](https://youtu.be/2mx6_358Wv8?si=Gu5EqOr6-DBOJzMI) by Shortcat
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 

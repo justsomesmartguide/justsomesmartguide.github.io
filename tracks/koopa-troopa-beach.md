@@ -18,7 +18,7 @@ nav_order: 13
   <span>Best Shock Spot: Chain into first item set on final lap</span>
 </div>
 
-Be careful not to overbag, because the track is really short and if a shock doesn't happen, a comeback can be impossible. If arriving on a route, you can afford to bag a little harder since a shock is more likely to happen.
+There's really not much too this track. Be careful not to overbag, because the track is really short and if a shock doesn't happen, a comeback can otherwise be impossible. If arriving on a route, you can afford to bag a little harder since a shock is more likely to happen. Also don't forget that as of 1.4.0, all routes to this track end with two laps rather than one.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -40,6 +40,6 @@ Be careful not to overbag, because the track is really short and if a shock does
   <span>Best Shock Spot: Beginning of final lap</span>
 </div>
 
-Not much changes when going backwards. Keep in mind that the shock is more likely to happen since you're arriving on a route, so make sure you have dodge items. On longer routes such as from Desert Hills or Whistlestop Summit, there is an increased possibility of two shocks being in play.
+Not much changes when going backwards. Keep in mind that the shock is more likely to happen since you're arriving on a route, so make sure you have dodge items. Beware that on routes from Desert Hills or Whistlestop Summit, there is an increased possibility of two shocks being in play due to them being longer.
 
 <span style="display:none">rKTB</span>

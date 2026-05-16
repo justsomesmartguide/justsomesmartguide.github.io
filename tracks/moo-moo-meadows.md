@@ -18,7 +18,7 @@ nav_order: 23
   <span>Best Shock Spot: Chain into first item set</span>
 </div>
 
-The track is filled with shortcuts, but the most important is the tree shortcut, which takes a bit of practice to be able to do consistently.
+The track is filled with shortcuts, but the most important is the tree shortcut, which takes a bit of practice to be able to do consistently. You can also do an itemless shortcut right after that by doing a charge jump and bouncing off the cow.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 

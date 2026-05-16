@@ -18,7 +18,7 @@ nav_order: 6
   <span>Best Shock Spot: Target shock beginning shortcut</span>
 </div>
 
-Taking the ropes to the top path is faster, but there’s a risk of being bumped off if it gets congested, so don’t be afraid to play it safe and  go through the marketplace on lap 1.
+Getting to the top path is super valuable, especially since you can get a huge breakaway. But on lap 1 it's also super risky because you could get bumped off, so depending on your starting position it may be safer to instead take the bottom path and grab an item.
 
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
@@ -57,7 +57,7 @@ Taking the ropes to the top path is faster, but there’s a risk of being bumped
   <span>Best Shock Spot: Beginning of final lap</span>
 </div>
 
-There are grass shortcuts inside the palace, at the split path section, and after the marketplace (just before finish line). The shortcut at the split path section skips an item set, but it can be done shroomless by doing a charge jump and tricking off the sign.
+There are grass shortcuts inside the palace, at the split path section, and just before finish line. The shortcut at the split path section skips an item set, but it can be done itemless by doing a charge jump and tricking off the sign. The ending shortcut can be done without an item but it's much harder and only worth it if you're consistent.
 
 <p align="center">
   <figure style="display: inline-block; margin: 0 10px; text-align: center;">
@@ -89,5 +89,8 @@ There are grass shortcuts inside the palace, at the split path section, and afte
     <figcaption>Sign shortcut (itemless)</figcaption>
   </figure>
 </p>
+
+# Video Guides
+- [How to Win on Daisy's Palace in Mario Kart World](https://youtu.be/c5At8lrPSxw) by JustSomeSmartGuy
 
 <span style="display:none">rSGB</span>

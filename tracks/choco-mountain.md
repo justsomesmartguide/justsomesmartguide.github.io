@@ -10,7 +10,7 @@ nav_order: 24
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Bagging</span>
+  <span>Track Type: Bagging / Frontrunning</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -18,6 +18,9 @@ nav_order: 24
   <span>Best Shock Spot: Chain into second item set / Before taking shortcut that skips second item set</span>
 </div>
 
-The track has shortcuts everywhere. The shortcut by the second item set is very good, but you skip the set, so only take this if you don’t need another item.
+The track has shortcuts everywhere, some of which can be done itemless with practice. Feel free to run if you're good at the itemless shortcuts, but if you can't do them then you can instead bag. If bagging, you can take multiple shortcuts at the beginning with a single golden mushroom.
+
+# Video Guides
+- [Mario Kart World Guide | EVERY Shortcut & Strategy you NEED to know!](https://www.youtube.com/watch?v=EFhO5Lxkn1Y&t=5083s) by L1am (for Choco Mountain skip to 1:24:43)
 
 <span style="display:none">rCM</span>

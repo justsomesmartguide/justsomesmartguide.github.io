@@ -15,9 +15,9 @@ nav_order: 15
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into first item set on section 2</span>
+  <span>Best Shock Spot: Chain into first item set on section 2 / water section on section 3</span>
 </div>
 
-The shortcut on towards the end of section 2 is the biggest on the track and can be taken itemless if the boxes are broken for you.
+There's really not much to this track, just know to take the shortcut on the last turn of section 2 and to use mushrooms in the water on section 3 since using mushrooms in water is a lot faster.
 
 <span style="display:none">rPB</span>

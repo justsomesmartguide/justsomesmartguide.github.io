@@ -15,10 +15,13 @@ nav_order: 7
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into item set at big jump</span>
+  <span>Best Shock Spot: Chain into first or second item set</span>
 </div>
 
-The track has a lot of shroomless shortcuts that you need to know how to do in order to win. After the jump, there is an off-road shortcut that you can take with a single mushroom.
+The track has a lot of itemless shortcuts that you need to know how to do in order to win. After the jump, there is an off-road shortcut that you can take with a single mushroom.
+
+# Video Guides
+- [Full Shortcut Guide: WARIO STADIUM (with Controller Display)](https://youtu.be/y3SbsKwSRLk?si=xeyOZeMom5RtOsmn) by Shortcat
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 

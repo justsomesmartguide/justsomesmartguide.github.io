@@ -40,7 +40,7 @@ You can take the grass shortcut on section 1, but the double shortcut on section
   <span>Best Shock Spot: Target shock at tyre ring</span>
 </div>
 
-Be careful not to overbag the route since you want to be in the front for the final lap since this version does not have many shortcuts on the track itself to make a good comeback.
+Also known as Crown City lap 2. Be careful not to overbag the route since you want to be in the front for the final lap since this version does not have many shortcuts on the track itself to make a good comeback.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -62,7 +62,7 @@ Be careful not to overbag the route since you want to be in the front for the fi
   <span>Best Shock Spot: Before halfpipe</span>
 </div>
 
-Bag the route as usual, and then for the final lap, there's a big grass shortcut in the halfpipe.
+Also known as Beach Crown City. Bag the route as usual, and then for the final lap, there's a big grass shortcut in the halfpipe. You can also take another off road shortcut just before the finish line. 
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -76,14 +76,14 @@ Bag the route as usual, and then for the final lap, there's a big grass shortcut
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Frontrunning</span>
+  <span>Track Type: Bagging</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: During water section</span>
+  <span>Best Shock Spot: Chain into second item set on final lap</span>
 </div>
 
-A comeback can be difficult here due to a lack of shortcuts, and there isn’t really a good shock spot aside from the water section where there’s bad acceleration.
+Also known as Ocean Crown City. Just before the water section, there is a glider to the right that you can get to by shrooming through some off road, and by using this glider you can avoid most of the water. Chaining a star into the second item set will also allow you to get to the glider while also being protected in a common shock spot.
 
 <span style="display:none">CC</span>

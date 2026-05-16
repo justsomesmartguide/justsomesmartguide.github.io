@@ -15,9 +15,12 @@ nav_order: 16
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into item set at end of sloped canal</span>
+  <span>Best Shock Spot: Before ending shortcut</span>
 </div>
 
-The pack often very tight on this track. If you are consistent at the itemless shortcuts and taking the ending shortcut with a shell, then a frontrun is possible. If not, then bag for a shock dodge, but be careful not to overbag since there aren't many mushroom shortcuts.
+Frontrunning is possible if you're consistent at taking the ending shortcut with either a shell or itemless, but bagging for speed items is a good backup if you're not able to do that.
+
+# Video Guides
+- [Full Shortcut Guide: Salty Salty Speedway (with Controller Display)](https://youtu.be/hQMJQTV_r98?si=Pfe2C5L5IL8zPeXj) by Shortcat
 
 <span style="display:none">SSS</span>

@@ -10,7 +10,7 @@ nav_order: 30
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Bagging + Frontrunning</span>
+  <span>Track Type: ShroomStar + Frontrunning</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -18,6 +18,6 @@ nav_order: 30
   <span>Best Shock Spot: Chain into first item set on satellite</span>
 </div>
 
-Get triple shrooms and a dodge item, and by taking the shortcuts in the water section, you can easily smuggle your dodge item into the front. Just frontrun from this point onwards.
+The track is very long and multiple shocks isn't uncommon. There are two big grass shortcuts you can take in the water section using triple mushrooms. There's also a big itemless shortcut you can take just after the penultimate glider (practice this one beforehand).
 
 <span style="display:none">RR</span>

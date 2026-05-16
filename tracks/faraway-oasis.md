@@ -15,7 +15,7 @@ nav_order: 14
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into item set at cave exit</span>
+  <span>Best Shock Spot: Chain into item set at cave exit / Chain into item set before water section</span>
 </div>
 
 The most important shortcut on the track is the ending shortcut which can be taken with a mushroom or feather. In the water section, take the rail to the top path to avoid the water.

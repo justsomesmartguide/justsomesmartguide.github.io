@@ -15,10 +15,10 @@ nav_order: 1
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Chain into item set at cave / last item set</span>
+  <span>Best Shock Spot: Chain into item set at cave</span>
 </div>
 
-Miss the start boost to pull triple mushrooms so you can take the rail shortcut on laps 2 and 3, but otherwise treat this as a frontrunning track.
+There's a rail shortcut at the beginning of each lap that you can access by either shrooming through the tyres, letting other players break the tyres for you, or doing a well timed charge jump against the sign to jump over the tyres.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -37,10 +37,10 @@ Miss the start boost to pull triple mushrooms so you can take the rail shortcut 
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Beginning of final lap</span>
+  <span>Best Shock Spot: Chain into item set after cave</span>
 </div>
 
-You can take an off-road shortcut right after the start line but be careful you don’t stick to the unwanted rail at the end. You can also take the usual rail shortcut in reverse.
+You can take an off-road shortcut right after the start line but be careful you don’t stick to the unwanted rail at the end. You can also take the usual rail shortcut (now at the end of the lap) in reverse, although it's not possible to do it itemless.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -55,7 +55,7 @@ You can take an off-road shortcut right after the start line but be careful you 
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
-  <span>Best Shock Spot: Beginning of final lap</span>
+  <span>Best Shock Spot: On final lap after arriving at destination (see above)</span>
 </div>
 
 Shortly after the start of section 2, there is a helicopter up for grabs to the left and a truck behind the building to the right. If you are in 1st, go for the truck because it's faster. If you're slightly further back and someone else is going for the truck, go for the helicopter, which isn't as fast as the truck, but it better than not getting anything at all.

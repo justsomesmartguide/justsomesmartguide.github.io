@@ -14,7 +14,7 @@ nav_order: 29
 
 <div style="display:flex; align-items:center; margin:12px 0;">
   <img src="/assets/images/item-box.png" alt="Item Box" width="20" height="20" style="margin-right:6px;" />
-  <span>Track Type: Frontrunning (from DKS/rKTB) / Shroomer</span>
+  <span>Track Type: Frontrunning (from DKS / rKTB) / Shroomer</span>
 </div>
 
 <div style="display:flex; align-items:center; margin:12px 0;">
@@ -22,7 +22,7 @@ nav_order: 29
   <span>Best Shock Spot: Beginning of final lap</span>
 </div>
 
-It is on this track where missing the start boost to get triple mushrooms can be most effective. Get triple mushrooms and take the beginning shortcut on all 3 laps, simple as that. If arriving from DK Spaceport or Koopa Troopa Beach, the beginning shortcut is skipped, so treat this as a frontrunnning track.
+It is on this track where missing the start boost to get triple mushrooms can be most effective. Get triple mushrooms and take the beginning shortcut on all 3 laps, simple as that. If arriving from DK Spaceport or Koopa Troopa Beach, the beginning shortcut is skipped, so you'll want to be in the front by the time you arrive here.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -44,7 +44,7 @@ It is on this track where missing the start boost to get triple mushrooms can be
   <span>Best Shock Spot: None (use shock on route)</span>
 </div>
 
-The shell cup version of Peach Stadium has you drive around the terminus on the lower level. There’s not much to this track, make your comeback on the route and frontrun here.
+The shell cup version of Peach Stadium (also known as paperclip Peach Stadium) has you drive around the terminus on the lower level. There’s not much to this track, make your comeback on the route and frontrun here.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 

@@ -17,7 +17,7 @@ nav_order: 5
   <img src="/assets/images/shock.png" alt="Shock" width="20" height="20" style="margin-right:6px;" />
   <span>Best Shock Spot: At sand dunes in middle section</span>
 </div>
-The track is almost entirely shortcuts. Try to make your comeback on lap 3, but keep in mind this is when the shock tends to happen and dodging it can be quite powerful.
+The track is almost entirely shortcuts. Try to make your comeback on lap 3, but keep in mind this is when the shock tends to happen and dodging it can be quite powerful. The ending shortcut can also be done itemless with practice.
 
 <hr style="border-top: 2px solid #7F7F7F; margin: 2em 0;">
 
@@ -39,6 +39,6 @@ The track is almost entirely shortcuts. Try to make your comeback on lap 3, but 
   <span>Best Shock Spot: Beginning of final lap</span>
 </div>
 
-Exactly the same, just in reverse. The track is still almost entirely shortcuts. Take the same shortcuts and expect the shock at the same shortcuts.
+The reverse variant is also pretty much entirely shortcuts. A golden mushroom is really good here for the ending shortcut.
 
 <span style="display:none">rDH</span>

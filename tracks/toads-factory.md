@@ -18,6 +18,6 @@ nav_order: 25
   <span>Best Shock Spot: Chain into item set after curved conveyors</span>
 </div>
 
-There is an off-road shortcut before the bulldozers, but you can just instead go for the rail and it’s not that much slower.
+There is an off-road shortcut before the bulldozers, but you can just instead go for the rail and it’s not that much slower. Also make sure to pay attention to your surroundings since the pack is often very tight and chaotic.
 
 <span style="display:none">rTF</span>
