@@ -19,7 +19,7 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
 - **ShroomStar:** Hybrid between Shroomers and Baggers. You'll want to get two items at the start (ideally triple mushrooms + star, hence the name), but then you'll go as fast as possible, taking shortcuts with the triple shrooms and protecting youself from the shock using the star.
 
 ## Useful Links
-- [MKCentral](https://mkcentral.com/) - Sign up for competitive Mario Kart.
+- [MKCentral](https://mkcentral.com/) - Sign up for competitive Mario Kart
   
 - [MK Blog](https://japan-mk.blog.jp/mkworld.item-1) - Item distribution table and more info relating to Mario Kart
   
