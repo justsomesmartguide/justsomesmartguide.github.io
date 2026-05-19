@@ -5,7 +5,7 @@ layout: home
   <img src="/assets/images/cover-picture-3-web.png" alt="Just Some Smart Guide"/>
 </p>
 
-**Compiled by [JustSomeSmartGuy](https://www.youtube.com/@JustSomeSmartGuyOnYT)**
+**Compiled by [JustSomeSmartGuy](https://www.youtube.com/@JustSomeSmartGuyOnYT/?sub_confirmation=1)**
 
 Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help you WIN online. To view the info for any given track, click on the name of the track in the sidebar, or alternatively search for the name of the track.
 
