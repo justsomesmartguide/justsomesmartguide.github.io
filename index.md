@@ -12,6 +12,8 @@ Welcome to Just Some Smart Guide for Mario Kart World, the cheat sheet to help y
 ## Important Announcement
 On 30 June 2026, Nintendo released the 1.7.0 update for Mario Kart World, which included changes to the item distribution in the first 25 seconds of a race. This change has a huge knock on effect on the strategies, with frontrunning notably getting a huge buff and bagging getting a huge nerf, with ShroomStar and Shroomers being eliminated as strategies altogether. As more infomation comes to light, I plan to update the guide to reflect the changes.
 
+**Update 4 July 2026:** [MKBlog](https://japan-mk.blog.jp/mkworld.item-1) has released an updated item distro chart, confirming that items are mostly random at the beginning of the race.
+
 ## Track Types
 - **Frontrunning:** Try to stay at the front for most of the race. Getting drafts at the beginning is especially useful to get into the front. Many frontrunning tracks feature technical shortcuts and rail strategies that you need to learn in order to win.
   
